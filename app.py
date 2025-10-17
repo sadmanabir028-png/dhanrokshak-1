@@ -7,7 +7,7 @@ import pandas as pd
 # Page configuration
 st.set_page_config(
     page_title="ধানরক্ষক - AI রোগ শনাক্তকরণ",
-    page_icon="🌾",
+    page_icon="https://www.pinterest.com/pin/76209418689740748/",
     layout="wide",
     initial_sidebar_state="expanded"
 )
